@@ -42,8 +42,8 @@ We welcome contributions to this translation project! If you notice any issues o
 - `figures/`：如有插图或表格，可以存放在此文件夹中 (Folder for Figures or Tables, if applicable)
 
 ## 进度 (Progress)
-- [x] 第一部分翻译：已完成 (First Section Translated: Completed)
-- [ ] 第二部分翻译：进行中 (Second Section Translated: In Progress)
+- [ ] 第一部分翻译：进行中 (Second Section Translated: In Progress)
+- [ ] 第二部分翻译：待翻译 (Third Section Translated: Pending)
 - [ ] 第三部分翻译：待翻译 (Third Section Translated: Pending)
 
 ## 版权声明 (Copyright Notice)
