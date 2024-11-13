@@ -42,9 +42,18 @@ We welcome contributions to this translation project! If you notice any issues o
 - `figures/`：如有插图或表格，可以存放在此文件夹中 (Folder for Figures or Tables, if applicable)
 
 ## 进度 (Progress)
-- [ ] 第一部分翻译：进行中 (Second Section Translated: In Progress)
-- [ ] 第二部分翻译：待翻译 (Third Section Translated: Pending)
-- [ ] 第三部分翻译：待翻译 (Third Section Translated: Pending)
+- [ ] 1. 引言 (Introduction) (First Section Translated: In Progress)
+- [ ] 2. 模糊集 (Ambiguity Sets) (Second Section Translated: In Progress)
+- [ ] 3. 模糊集的拓扑性质 (Topological Properties of Ambiguity Sets) (Third Section Translated: In Progress)
+- [ ] 4. 最坏期望问题的对偶理论 (Duality Theory for Worst-Case Expectation Problems) (Fourth Section Translated: In Progress)
+- [ ] 5. 最坏风险问题的对偶理论 (Duality Theory for Worst-Case Risk Problems) (Fifth Section Translated: In Progress)
+- [ ] 6. 自然子问题的解析解 (Analytical Solutions of Nature’s Subproblem) (Sixth Section Translated: In Progress)
+- [ ] 7. 自然子问题的有限凸重构 (Finite Convex Reformulations of Nature’s Subproblem) (Seventh Section Translated: In Progress)
+- [ ] 8. 通过鲁棒化进行正则化 (Regularization by Robustification) (Eighth Section Translated: In Progress)
+- [ ] 9. DRO问题的数值求解方法 (Numerical Solution Methods for DRO Problems) (Ninth Section Translated: In Progress)
+- [ ] 10. 统计保证 (Statistical Guarantees) (Tenth Section Translated: In Progress)
+- [ ] 参考文献 (References) (References Translated: In Progress)
+
 
 ## 版权声明 (Copyright Notice)
 此项目基于原文进行翻译，所有权归原作者所有。原文链接：[Distributionally Robust Optimization](https://arxiv.org/abs/2411.02549)。翻译仅用于学术交流，非商业用途。
