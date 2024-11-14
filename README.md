@@ -42,7 +42,7 @@ We welcome contributions to this translation project! If you notice any issues o
 - `figures/`：如有插图或表格，可以存放在此文件夹中 (Folder for Figures or Tables, if applicable)
 
 ## 进度 (Progress)
-- [ ] 1. 引言 (Introduction) (First Section Translated: In Progress)
+- [❌] 1. 引言 (Introduction) (First Section Translated: Completed)
 - [ ] 2. 模糊集 (Ambiguity Sets) (Second Section Translated: Pending)
 - [ ] 3. 模糊集的拓扑性质 (Topological Properties of Ambiguity Sets) (Third Section Translated: Pending)
 - [ ] 4. 最坏期望问题的对偶理论 (Duality Theory for Worst-Case Expectation Problems) (Fourth Section Translated: Pending)
