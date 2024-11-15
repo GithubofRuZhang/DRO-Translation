@@ -43,8 +43,8 @@ We welcome contributions to this translation project! If you notice any issues o
 
 ## 进度 (Progress)
 - [x] 1. 引言 (Introduction) (First Section Translated: Completed)
-- [ ] 2. 模糊集 (Ambiguity Sets) (Second Section Translated: In Progress)
-- [ ] 3. 模糊集的拓扑性质 (Topological Properties of Ambiguity Sets) (Third Section Translated: Pending)
+- [x] 2. 模糊集 (Ambiguity Sets) (Second Section Translated: Completed)
+- [ ] 3. 模糊集的拓扑性质 (Topological Properties of Ambiguity Sets) (Third Section Translated: In Progress)
 - [ ] 4. 最坏期望问题的对偶理论 (Duality Theory for Worst-Case Expectation Problems) (Fourth Section Translated: Pending)
 - [ ] 5. 最坏风险问题的对偶理论 (Duality Theory for Worst-Case Risk Problems) (Fifth Section Translated: Pending)
 - [ ] 6. 自然子问题的解析解 (Analytical Solutions of Nature’s Subproblem) (Sixth Section Translated: Pending)
