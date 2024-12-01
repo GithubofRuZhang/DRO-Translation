@@ -22,16 +22,6 @@ Each section of the reading notes will be published in sync with the translated 
 - **Derivation Steps:** Provide step-by-step derivations of formulas and theories.
 - **Key Formulas:** Summarize important formulas and conclusions in each section.
 - **Examples:** Use simple examples to illustrate the practical application of derivations and conclusions.
-
----
-
-## 阅读笔记的项目结构 (Project Structure of Reading Notes)
-
-- `README.md`: 项目概述 (Project Overview)
-- `DRO_Translation.md`: 翻译的正文内容 (Translated Main Content)
-- `DRO_ReadingNotes.md`: 阅读笔记 (Reading Notes)
-- `figures/`: 插图或表格存放位置 (Figures or Tables Folder)
-
 ---
 
 欢迎提出改进建议或提交新的证明补充！我们鼓励任何对 DRO 感兴趣的学者参与进来，共同完善这个项目。
