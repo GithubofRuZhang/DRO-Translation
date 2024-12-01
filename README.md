@@ -50,9 +50,9 @@ We welcome contributions to this translation project! If you notice any issues o
 - [x] 6. 自然子问题的解析解 (Analytical Solutions of Nature’s Subproblem) (Sixth Section Translated: Completed)
 - [x] 7. 自然子问题的有限凸重构 (Finite Convex Reformulations of Nature’s Subproblem) (Seventh Section Translated: Completed)
 - [x] 8. 通过鲁棒化进行正则化 (Regularization by Robustification) (Eighth Section Translated: Completed)
-- [ ] 9. DRO问题的数值求解方法 (Numerical Solution Methods for DRO Problems) (Ninth Section Translated: Pending)
-- [ ] 10. 统计保证 (Statistical Guarantees) (Tenth Section Translated: Pending)
-- [ ] 参考文献 (References) (References Translated: Pending)
+- [x] 9. DRO问题的数值求解方法 (Numerical Solution Methods for DRO Problems) (Ninth Section Translated: Completed)
+- [x] 10. 统计保证 (Statistical Guarantees) (Tenth Section Translated: Completed)
+- [x] 参考文献 (References) (References Translated: Completed)
 
 
 
